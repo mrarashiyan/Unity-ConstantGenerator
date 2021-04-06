@@ -1,6 +1,6 @@
 # Constant Generator
 
-<p>A useful package for **Unity3D Game Engine**. </p>
+A useful package for **Unity3D Game Engine**.
 
 The easiest way to **Create**,**Manage** and **Use** public constants in you Unity project!
 
