@@ -11,17 +11,23 @@ The easiest way to **Create**,**Manage** and **Use** public constants in you Uni
 <p>
 <img src="https://s16.picofile.com/file/8429791276/photo_2021_04_05_22_37_50.jpg"/>
 </p>
-<p></p>
+
 ##  How to use:
+<p>
 1- It's just enough to import package to your project and click on **ConstantGenerator** in this path:
-<p></p>
+</p>
+
 ***"Assets/Thirdparty/UGS Const Generator"***
-<p></p>
+
+<p>
 2- Add as many collections as you want and Add your constants to them.
-<p></p>
+</p>
+<p>
 3- Click on Save button
-<p></p>
+</p>
+<p>
 4- Go to your target script and import UGS
+</p>
 ```
 using UGS.Const;
 ```
