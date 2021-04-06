@@ -28,16 +28,20 @@ The easiest way to **Create**,**Manage** and **Use** public constants in you Uni
 <p>
 4- Go to your target script and import UGS
 </p>
+
 ```
 using UGS.Const;
 ```
-<p></p>
+
+<p>
 5- Use your collection name to access to your constants.
-<p></p>
+</p>
+<p>
 6- Done!
-<p></p>
-<p></p>
+</p>
+
 ##  Example and Demo
 Demo scene and script are included in this path:
-<p></p>
+<p>
 ***"Assets/Thirdparty/UGS Const Generator/Demo"***
+</p>
